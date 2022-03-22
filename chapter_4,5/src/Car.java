@@ -1,4 +1,5 @@
 public class Car {
+    // this. 와 this() 의 차이점
     String color; // 인스턴스 변수
     String gearType;
     int door; 
